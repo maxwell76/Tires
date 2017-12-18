@@ -23,5 +23,4 @@ public class TireSales {
         System.out.println("Next Tire to be sold is "+pole.peekTop());
         System.out.println("Number of tires left on pole is "+pole.size());
     }
-    
 }
